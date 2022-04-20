@@ -1,2 +1,2 @@
 console.log("Hola Mundo =)");
-console.log("comenzando con git y codesandbox");
+console.log("comenzando en git y codesandbox");
